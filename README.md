@@ -1,6 +1,6 @@
 # Tick Tac Toe
 
-Repo for the tutorial [Multiplayer Tic Tac Toe App - Arabic](https://barmaga.io/en/courses/build-multiplayer-tic-tac-toe/lectures/part-1)
+Repo for the tutorial [Multiplayer Tic Tac Toe App - Arabic](https://www.youtube.com/playlist?list=PL_aOZuct6oApD9fvGkmeEDq0GMxbjbAsM)
 Built with React and Socket.io
 
 ![image](https://user-images.githubusercontent.com/3861725/86353948-7c5b2900-bcab-11ea-9182-4a9afa2e406c.png)
@@ -9,28 +9,24 @@ Built with React and Socket.io
 
 - Clone the Repo
 
-```
-git clone git@github.com:abolkog/tic-tac-toe-online.git
-```
-
 - Install the dependencies
 
-```
-cd tic-tac-toe-online
-npm install
-```
+  ```bash
+  cd tic-tac-toe-online
+  npm install
+  ```
 
 - Run the server
 
-```
-npm run server
-```
+  ```bash
+  npm run server
+  ```
 
 - Run the client
 
-```
-npm run client
-```
+  ```bash
+  npm run client
+  ```
 
 - Open your browser and navigate to [http://localhost:3000/](http://localhost:3000/)
 
